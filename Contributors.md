@@ -1231,6 +1231,7 @@ Hager
 - [Länzlinger Jonas](https://github.com/jonaslanzlinger)
 - [Hardik Agnihotri](https://github.com/hardik-agnihotri)
 - [Abdulkadir Gobena DENBOBA](https://github.com/denboba)
+- [Fajar Abdul Hafiz](https://github.com/sathyrvictim)
 - [mighty-baseplate](https://github.com/mighty-baseplate)
 - [Rishabh Kumar Das](https://github.com/rishabhd-cognavi)
 - [Sarthak Bhardwaj](https://github.com/sarthakbhardwaj27)
@@ -1361,6 +1362,7 @@ Hager
 - [Jeyanth-S](https://github.com/Jeyanth-S)
 - [Ishpriya Sharma](https://github.com/Ishpriya-Sharma)
 - [Idris](https://github.com/idreesjanib1)
+- [Husnain Khaliq](https://github.com/huscse)
 - [Vaishnvai gokhale](https://github.com/Vaishnavimgokhale)
 - Mariya Anjum 💫 First open source contribution!
 - [Favour Isioma Dumkwu](https://github.com/dumkwufavour)
